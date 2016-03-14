@@ -1,5 +1,16 @@
                     GNU GENERAL PUBLIC LICENSE
-                       Version 3, 29 June 2007
+                       Version 2, 29 June 2007
+
+La Licencia Pública General de GNU o más conocida por su nombre en inglés 
+GNU General Public License (o simplemente sus siglas del inglés GNU GPL) 
+es la licencia más ampliamente usada1 en el mundo del software y garantiza
+ a los usuarios finales (personas, organizaciones, compañías) la libertad de
+ usar, estudiar, compartir (copiar) y modificar el software. Su propósito es
+ declarar que el software cubierto por esta licencia es software libre y protegerlo
+ de intentos de apropiación que restrinjan esas libertades a los usuarios.
+ Esta licencia fue creada originalmente por Richard Stallman fundador de la
+ Free Software Foundation (FSF) para el proyecto GNU.
+
 
  Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
  Everyone is permitted to copy and distribute verbatim copies
